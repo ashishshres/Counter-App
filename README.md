@@ -2,4 +2,4 @@
 
 ### Preview
 
-<!-- ![](./demo.gif) -->
+![](./demo.gif)
