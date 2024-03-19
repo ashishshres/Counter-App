@@ -2,4 +2,4 @@
 
 ### Preview
 
-![](./counterdemo.gif)
+![](./images/counterdemo.gif)
