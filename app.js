@@ -1,7 +1,7 @@
 let counter = document.querySelector("h2");
 let countPlus = document.querySelector(".increment");
 let countMinus = document.querySelector(".decrement");
-// let reset = document.querySelector(".reset");
+let reset = document.querySelector(".reset");
 
 countPlus.addEventListener("click", () => {
   let countValue = parseInt(document.querySelector("#count").value);
