@@ -1,3 +1,5 @@
 # Counter🔢
 
 ### Preview
+
+![](./counterdemo.gif)
